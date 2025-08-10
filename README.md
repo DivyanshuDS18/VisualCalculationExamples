@@ -59,8 +59,3 @@ The examples are implemented in the `.pbix` file and explained in the accompanyi
 - Calculations are evaluated at the visual level, automatically respecting filters and slicers.
 
 ---
-
----
-
-**Author:** *Your Name*  
-**Date:** *YYYY-MM-DD*
