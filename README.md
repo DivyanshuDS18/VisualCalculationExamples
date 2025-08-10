@@ -61,7 +61,7 @@ The examples are implemented in the `.pbix` file and explained in the accompanyi
 ---
 
 ## 📷 Preview
-*(Add screenshots of each example here for better visual reference.)*
+![Example1]([https://raw.githubusercontent.com/username/repo/branch/path/to/image.png](https://github.com/DivyanshuDS18/VisualCalculationExamples/blob/main/Example1.PNG))
 
 ---
 
