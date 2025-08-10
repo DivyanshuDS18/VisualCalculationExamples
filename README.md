@@ -61,7 +61,7 @@ The examples are implemented in the `.pbix` file and explained in the accompanyi
 ---
 
 ## 📷 Preview
-![Example1](file:///C:/Users/Admin/OneDrive/Pictures/New%20Project%20images/Example1.PNG)
+![Example1](https://1drv.ms/i/c/bef738bda85248ee/EdFhx7SnboBCqAJxduzPNvcBYHiDN5gKh916LNfSIaS65w?e=p0UQq0)
 
 ---
 
